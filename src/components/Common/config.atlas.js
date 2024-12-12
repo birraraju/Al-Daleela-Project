@@ -54,44 +54,44 @@ const config = {
           "https://arcgis.sdi.abudhabi.ae/agshost/rest/services/Hosted/BaseMapAra_LightGray_WM/MapServer"
         ]
       },
-      {
-        title: "English Dark Gray Geographic",
-        id: "Basemap English Dark Gray Geographic coordinates",
-        thumbnailImg: "./images/English Dark Gray Geographic.png",
-        baseLayers: [
-          "https://arcgis.sdi.abudhabi.ae/agshost/rest/services/Hosted/BaseMapEng_DarkGray_GCS/MapServer"
-        ]
-      },
-      {
-        title: "English Dark Gray Web Mercator",
-        id: "Basemap English Dark Gray Web Mercator coordinates",
-        thumbnailImg: "./images/English Dark Gray Web Mercator.png",
-        baseLayers: [
-          "https://arcgis.sdi.abudhabi.ae/agshost/rest/services/Hosted/BaseMapEng_DarkGray_WM/MapServer"
-        ]
-      },
-      {
-        title: "English light Gray Geographic",
-        id: "Basemap English light Gray Geographic coordinates",
-        thumbnailImg: "./images/English light Gray Geographic.png",
-        baseLayers: [
-          "https://arcgis.sdi.abudhabi.ae/agshost/rest/services/Hosted/BaseMapEng_LightGray_GCS/MapServer"
-        ]
-      },
-      {
-        title: "English light Gray Web Mercator",
-        id: "Basemap English light Gray Web Mercator coordinates",
-        thumbnailImg: "./images/English Light Gray Web Mercator.png",
-        baseLayers: [
-          "https://arcgis.sdi.abudhabi.ae/agshost/rest/services/Hosted/BaseMapEng_LightGray_WM/MapServer"
-        ]
-      },
+      // {
+      //   title: "English Dark Gray Geographic",
+      //   id: "Basemap English Dark Gray Geographic coordinates",
+      //   thumbnailImg: "./images/English Dark Gray Geographic.png",
+      //   baseLayers: [
+      //     "https://arcgis.sdi.abudhabi.ae/agshost/rest/services/Hosted/BaseMapEng_DarkGray_GCS/MapServer"
+      //   ]
+      // },
+      // {
+      //   title: "English Dark Gray Web Mercator",
+      //   id: "Basemap English Dark Gray Web Mercator coordinates",
+      //   thumbnailImg: "./images/English Dark Gray Web Mercator.png",
+      //   baseLayers: [
+      //     "https://arcgis.sdi.abudhabi.ae/agshost/rest/services/Hosted/BaseMapEng_DarkGray_WM/MapServer"
+      //   ]
+      // },
+      // {
+      //   title: "English light Gray Geographic",
+      //   id: "Basemap English light Gray Geographic coordinates",
+      //   thumbnailImg: "./images/English light Gray Geographic.png",
+      //   baseLayers: [
+      //     "https://arcgis.sdi.abudhabi.ae/agshost/rest/services/Hosted/BaseMapEng_LightGray_GCS/MapServer"
+      //   ]
+      // },
+      // {
+      //   title: "English light Gray Web Mercator",
+      //   id: "Basemap English light Gray Web Mercator coordinates",
+      //   thumbnailImg: "./images/English Light Gray Web Mercator.png",
+      //   baseLayers: [
+      //     "https://arcgis.sdi.abudhabi.ae/agshost/rest/services/Hosted/BaseMapEng_LightGray_WM/MapServer"
+      //   ]
+      // },
       {
         title: "Satellite imagery",
         id: "Satellite imagery",
         thumbnailImg: "./images/Satellite Imagery.png",
         baseLayers: [
-          "https://arcgis.sdi.abudhabi.ae/arcgis/rest/services/Pub/IMG_SAT_50CM_WM/MapServer"
+          "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer"
         ]
       },
     ],
