@@ -1,6 +1,6 @@
 import { useTheme } from "../../../../../Layout/ThemeContext/ThemeContext";
 import { useState } from "react";
-import RedClose from '../../../../../../assets/FilterPopup/CloseFilterRed.svg'
+import RedClose from '../../../../../../assets/Header/GeneralInformation/CloseFilterRed.svg'
 import { FaChevronDown, FaChevronUp } from "react-icons/fa";
 import { late } from "zod";
 
